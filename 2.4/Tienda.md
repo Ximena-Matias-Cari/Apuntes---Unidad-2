@@ -199,6 +199,10 @@ Inicia la aplicación y permite cargar imágenes desde la carpeta **assets**.
 <img width="1890" height="1070" alt="image" src="https://github.com/user-attachments/assets/5d71ab59-1e28-4e42-a167-e46fa63de823" />
 <img width="1872" height="1060" alt="image" src="https://github.com/user-attachments/assets/b39c817e-f619-4acb-932e-f4bada68ca8f" />
 
+Recursos:
+<img width="951" height="375" alt="image" src="https://github.com/user-attachments/assets/177a2d40-6913-4941-a629-a5b53e80514f" />
+
+
 
 ## Conclusión
 
